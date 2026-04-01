@@ -11,19 +11,19 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "dalina love 🤔",
+    "Rojana kasiiiii 🥺",
+    "ay, magdadabog ako",
+    "Iiyak ako sige😢",
     "Please??? 💔",
-    "Don't do this to me...",
+    "DALIA WALA KA CHOICE",
     "Last chance! 😭",
-    "You can't catch me anyway 😜"
+    "HABOL 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    " Try mo mag no😏",
+    "mag no ka muna daliiiii",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
